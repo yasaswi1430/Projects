@@ -1,0 +1,6 @@
+https://www.w3schools.com/REACT/react_router.asp
+https://www.google.com/search?q=react+router+tutorial&sxsrf=AJOqlzU9B3Qa7vvBzMAGpCn_LA07aXvo-A%3A1676124391275&ei=56DnY6O8ELSM4-EPwYaOgAM&ved=0ahUKEwjjy8P30Y39AhU0xjgGHUGDAzAQ4dUDCA8&uact=5&oq=react+router+tutorial&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CggAEEcQ1gQQsAM6BQgAEIYDOgUIABCiBDoHCCMQ6gIQJzoMCAAQ6gIQtAIQQxgBOgQIIxAnOgUIABCRAjoLCAAQgAQQsQMQgwE6CwguEIAEELEDEIMBOggILhCABBCxAzoECAAQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6DQgAEIAEEBQQhwIQsQM6CAgAEIAEELEDOgsILhCABBCxAxDlBDoQCAAQgAQQFBCHAhCxAxCDAToFCAAQsQM6DgguEIAEELEDEIMBENQCOggIABCxAxCRAjoKCAAQgAQQFBCHAkoECEEYAEoECEYYAVD5CljNMGCXMmgCcAF4BIABygGIAccekgEGMC4yNi4ymAEAoAEBsAEUyAEIwAEB2gEGCAEQARgB&sclient=gws-wiz-serp
+https://ui.dev/react-router-tutorial
+https://blog.logrocket.com/adding-login-authentication-secure-react-apps/#basic-authentication-react-express-js
+https://www.section.io/engineering-education/session-management-in-nodejs-using-expressjs-and-express-session/
+https://blog.devgenius.io/mern-auth-with-session-part-1-express-login-api-922cd29336a8

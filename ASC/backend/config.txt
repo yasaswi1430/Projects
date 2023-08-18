@@ -1,0 +1,7 @@
+USER="postgres"
+PORT=5432
+PASSWORD="weilonguL*$"
+DATABASE="outlab4"
+HOST=localhost
+NODEPORT=9000
+SESSION_SECRET="secret"

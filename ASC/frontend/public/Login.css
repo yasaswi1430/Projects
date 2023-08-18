@@ -1,0 +1,102 @@
+header {
+    background-color: rgb(37, 24, 221);
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    width: 1200px;
+    height: 80px;
+  }
+  .my_top {
+      font-size: x-large;
+  }
+.container {
+    text-align: center;
+}
+.home {
+    background-color: pink;
+    color: green;
+    text-align: center;
+    height: 700px;
+}
+#reg_link {
+    text-align: center;
+}
+table,th,td {
+    border: 1px solid black;
+    margin: auto;
+    width: 400 px;
+    font-size: x-large;
+}
+#text1 {
+    margin: auto;
+    text-align: center;
+}
+#text2{
+    margin: auto;
+    text-align: center;
+}
+#text3{
+    margin: auto;
+    text-align: center;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+#Login {
+    text-align: center;
+    background-color: pink;
+}
+
+h2 {
+    margin-left: '.5rem';
+    font-size: x-large;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-field {
+    position: relative;
+    margin-top: 2rem;
+}
+
+.input-field input {
+    padding: 0.8rem;
+}
+
+form .input-field:first-child {
+    margin-bottom: 1.5rem;
+}
+
+form input[type="submit"] {
+    background: linear-gradient(to left, #4776E6, #8e54e9);
+    color: white;
+    border-radius: 4px;
+    margin-top: 2rem;
+    padding: 0.4rem;
+    padding-top: 0.5rem;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+.error {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.errbody {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 0.5rem;
+    border-radius: 4px;
+    margin-top: 1rem;
+}
+footer {
+    background-color: pink;
+}
